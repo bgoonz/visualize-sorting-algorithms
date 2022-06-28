@@ -4,8 +4,8 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-[See it in action](https://sadanandpai.github.io/sorting-visualizer/dist/)
+<a href="https://bgoonz.github.io/visualize-sorting-algorithms/dist/"><img src="cover.png" alt="cover" /></a>
+[See it in action](https://bgoonz.github.io/visualize-sorting-algorithms/dist/)
 
 ---
 
@@ -41,9 +41,9 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
-- ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
+- `git clone https://github.com/bgoonz/visualize-sorting-algorithms.git`
+- `npm install` (after navigating inside the directory)
+- `npm run dev`
 
 ---
 
@@ -51,7 +51,3 @@ Features
 
 If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
 <br/>
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
