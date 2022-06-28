@@ -4,7 +4,6 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://bgoonz.github.io/visualize-sorting-algorithms/dist/"><img src="cover.png" alt="cover" /></a>
 [See it in action](https://bgoonz.github.io/visualize-sorting-algorithms/dist/)
 
 ---
@@ -46,8 +45,3 @@ Features
 - `npm run dev`
 
 ---
-
-### Contributing Guide
-
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
